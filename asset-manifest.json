@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a8b0ace.css",
-    "main.js": "/static/js/main.c99ad0b6.js",
-    "static/js/787.97b62011.chunk.js": "/static/js/787.97b62011.chunk.js",
-    "static/media/paisatge-nevat.jpg": "/static/media/paisatge-nevat.f5569157518f5cb31128.jpg",
-    "index.html": "/index.html",
-    "main.9a8b0ace.css.map": "/static/css/main.9a8b0ace.css.map",
-    "main.c99ad0b6.js.map": "/static/js/main.c99ad0b6.js.map",
-    "787.97b62011.chunk.js.map": "/static/js/787.97b62011.chunk.js.map"
+    "main.css": "/neu-react/static/css/main.8a38259e.css",
+    "main.js": "/neu-react/static/js/main.18fc51af.js",
+    "static/js/787.97b62011.chunk.js": "/neu-react/static/js/787.97b62011.chunk.js",
+    "static/media/paisatge-nevat.jpg": "/neu-react/static/media/paisatge-nevat.f5569157518f5cb31128.jpg",
+    "index.html": "/neu-react/index.html",
+    "main.8a38259e.css.map": "/neu-react/static/css/main.8a38259e.css.map",
+    "main.18fc51af.js.map": "/neu-react/static/js/main.18fc51af.js.map",
+    "787.97b62011.chunk.js.map": "/neu-react/static/js/787.97b62011.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a8b0ace.css",
-    "static/js/main.c99ad0b6.js"
+    "static/css/main.8a38259e.css",
+    "static/js/main.18fc51af.js"
   ]
 }
