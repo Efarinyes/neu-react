@@ -1,7 +1,5 @@
 .App {
   text-align: center;
-  
-  
 }
 
 .App-logo {
@@ -23,7 +21,6 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
- 
 }
 
 .App-link {
@@ -39,7 +36,7 @@
   }
 }
 
-.container {
+/* .container {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -49,4 +46,4 @@
   margin-top: 10%;
   background-image: url("../public/img/fondo.jpeg");
   background-repeat: no-repeat;
-}
+} */
